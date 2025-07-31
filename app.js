@@ -37,7 +37,6 @@ function generarnumeroAleatorio() {
 ///////////////////////////////////////////////////////////////////////////
     let valorCaja = document.querySelector('#ingreso').value = '';
  
-}
 ///////////////////////////////////////////////////////////////////////////
 function condisionesIniciales(){
     asignarTextoelemento('h1','Juego de adivinar el numero');
